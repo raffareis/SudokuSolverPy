@@ -82,7 +82,7 @@ def solve(board):
                 board[l, c] = possibilidades[0]
                 return solve(board)
 
-            # def solve2(board):  # isso nao esta funcionando
+# def solve2(board):  # isso nao esta funcionando
 
 
 #     for l in range(dim[0]):
